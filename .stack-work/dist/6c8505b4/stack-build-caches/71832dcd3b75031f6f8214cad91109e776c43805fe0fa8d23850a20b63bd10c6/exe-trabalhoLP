@@ -1,0 +1,20 @@
+C:\Users\anton\AppData\Local\Programs\stack\x86_64-windows\ghc-9.6.3\lib\x86_64-windows-ghc-9.6.3\rts-1.0.2\include\MachDeps.h:
+  hash: 94f383f2743e37d6240fdf24b33714450bccce7dc5d0aa8e593f26e1b8a3d4af
+? C:\Users\anton\AppData\Local\Programs\stack\x86_64-windows\ghc-9.6.3\lib\x86_64-windows-ghc-9.6.3\rts-1.0.2\include\ghcautoconf.h
+: hash: 5320ca8dea65ce05f1fd4a6cfdff35cd99d09cffa8733d26a724dd7e1f176b03
+C:\Users\anton\AppData\Local\Programs\stack\x86_64-windows\ghc-9.6.3\lib\x86_64-windows-ghc-9.6.3\rts-1.0.2\include\ghcversion.h:
+  hash: 9ac4cd6dcf20b31fc6e9eefbda1d924d33786bc197a79b0e6947ed7129581019
+C:\Users\anton\OneDrive\Documentos\LP\.stack-work\dist\6c8505b4\build\trabalhoLP\autogen\cabal_macros.h:
+  hash: fc1243e78a278c3e4201de9507912da4772e4bea1c0d5633c51885e51dedbda7
+C:\Users\anton\OneDrive\Documentos\LP\src\Interpreter.hs:
+  hash: daf7abf41b5eb06e9e499d7f3dd7243a84282d7f5a8e8f3e1179bbe3f19cbd10
+C:\Users\anton\OneDrive\Documentos\LP\src\Lexer.hs:
+  hash: 6adf68ae984ff265c61443e24f6224fa2419780ed22d1c7b79fdb10a277a2017
+C:\Users\anton\OneDrive\Documentos\LP\src\Main.hs:
+  hash: 4ccf278e27d537628eac130a6983cf2643c532ba8dfc2d72bbefaa379f03b959
+C:\Users\anton\OneDrive\Documentos\LP\src\Parser.hs:
+  hash: 78e986179206a046f04d4d42ef2c4affee81f7e70c595f356cc39430455df46d
+C:\Users\anton\OneDrive\Documentos\LP\src\TypeChecker.hs:
+  hash: 21c0cacfb35ae105f06d03b754ebc062732130ac655dc481005228dce5c68931
+C:\Users\anton\OneDrive\Documentos\LP\trabalhoLP.cabal:
+  hash: cee01f64a54bd2fd68933859fa6100e410fec968b2aa139c2e3ab8d4866251a5
